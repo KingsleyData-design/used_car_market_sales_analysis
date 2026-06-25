@@ -2,10 +2,10 @@ Tools Used
 - Microsoft Excel
 - SQL Server
 - Power BI
-- Python (Pandas,Matplotlib)
+- Python, Pandas, Matplotlib
 
-Project Objectives 
-- Performed the same Analysis across different tools, solving the same Questions.
+Project Objectives
+- Perform the same Analysis across Excel, SQL, Power BI, and Python.
 - Analyze used car prices across different companies.
 - Compare vehicle prices by fuel type.
 - Examine price trends over the years.
@@ -26,7 +26,8 @@ Recommendations
 - Buying post - 2015 models retains better resale value, because they can be easily resold in the nearest future.
 
 Files Included 
-- Excel Dashboard.
-- SQL Queries.
-- Power BI Dashboard.
+- Excel Dashboard
+- SQL Queries
+- Power BI Dashboard
+- Jupyter Notebook (Python, Pandas & Matplotlib)
 - Dataset.
